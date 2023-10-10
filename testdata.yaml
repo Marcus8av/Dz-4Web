@@ -1,0 +1,11 @@
+url_login: https://test-stand.gb.ru/login
+url: https://test-stand.gb.ru/
+url_api_posts: https://test-stand.gb.ru/api/posts
+url_get_token: https://test-stand.gb.ru/gateway/login
+url_api_create_posts: https://test-stand.gb.ru/gateway/posts
+browser: firefox
+sleep_time: 10
+username: Timka
+password: 625dea530b
+test: test
+
